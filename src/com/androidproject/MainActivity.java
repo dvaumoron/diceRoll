@@ -2,13 +2,11 @@ package com.androidproject;
 
 import java.util.Random;
 
-import android.os.Bundle;
 import android.app.Activity;
-import android.text.Editable;
+import android.os.Bundle;
 import android.view.Menu;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.ExpandableListView;
 import android.widget.TextView;
 
 public class MainActivity extends Activity {
